@@ -10,3 +10,6 @@
 [submodule "hamzahMoh"]
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/06_switcheroo
+[submodule "jiangVin"]
+	path = jiangVin
+	url = https://github.com/vjiang10/06_switcheroo_vj.git
