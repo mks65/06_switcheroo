@@ -13,6 +13,6 @@
 [submodule "jiangVin"]
 	path = jiangVin
 	url = https://github.com/vjiang10/06_switcheroo_vj.git
-[submodule "06_switcheroo_J"]
-	path = 06_switcheroo_J
+[submodule "zhangJin"]
+	path = zhangJin
 	url = https://github.com/Jinzxc/06_switcheroo_J.git
