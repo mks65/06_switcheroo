@@ -1,3 +1,6 @@
 [submodule "siuVic"]
 	path = siuVic
 	url = https://github.com/vs2961/06_switcheroo_vs.git
+[submodule "the_old_switcheroo"]
+	path = nathMic
+	url = https://github.com/Michael-Nath/the_old_switcheroo.git
