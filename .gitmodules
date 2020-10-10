@@ -19,3 +19,6 @@
 [submodule "yeGen"]
 	path = yeGen
 	url = https://github.com/Gene1212/06_switcheroo.git
+[submodule "luRan"]
+	path = luRan
+	url = https://github.com/RandyLu0/work06
