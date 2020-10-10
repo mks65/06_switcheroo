@@ -16,3 +16,6 @@
 [submodule "zhangJin"]
 	path = zhangJin
 	url = https://github.com/Jinzxc/06_switcheroo_J.git
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/06_switcheroo.git
