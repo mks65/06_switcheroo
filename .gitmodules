@@ -31,3 +31,6 @@
 [submodule "yeCul"]
 	path = yeCul
 	url = https://github.com/CullenLYe/work06_switcheroo.git
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/systems_06_switcheroo.git
