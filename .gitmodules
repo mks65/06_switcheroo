@@ -25,3 +25,6 @@
 [submodule "ku-benjetJer"]
 	path = ku-benjetJer
 	url = https://github.com/jku20/mk65_06_switcheroo.git
+[submodule "ahmedTah"]
+	path = ahmedTah
+	url = git@github.com:mks65/06_switcheroo.git
