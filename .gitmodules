@@ -28,3 +28,6 @@
 [submodule "ahmedTah"]
 	path = ahmedTah
 	url = git@github.com:TahsinAhmed13/06_switcheroo.git
+[submodule "yeCul"]
+	path = yeCul
+	url = https://github.com/CullenLYe/work06_switcheroo.git
