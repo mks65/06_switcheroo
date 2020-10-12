@@ -40,3 +40,6 @@
 [submodule "zhangAle"]
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/06_switcheroo_zhangAle
+[submodule "huMic"]
+	path = huMic
+	url = https://github.com/GuessHuIAm/homework6
