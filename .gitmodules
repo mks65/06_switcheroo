@@ -55,3 +55,6 @@
 [submodule "zhaoGav"]
 	path = zhaoGav
 	url = https://github.com/gzhao10/hw6.git
+[submodule "linLei"]
+	path = linLei
+	url = https://github.com/llin11/06_switcheroo
