@@ -49,3 +49,6 @@
 [submodule "chenJac"]
 	path = chenJac
 	url = https://github.com/jchen2003/06_switcheroo.git
+[submodule "vostrikovVla"]
+	path = vostrikovVla
+	url = https://github.com/villinoid/06_systems
