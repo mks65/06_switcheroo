@@ -82,3 +82,6 @@
 [submodule "leeSte"]
 	path = leeSte
 	url = https://github.com/kevidgel/06_switcheroo_kevidgel
+[submodule "prasadAmi"]
+	path = prasadAmi
+	url = https://github.com/AmitPr/mks65c-06_switcheroo.git
