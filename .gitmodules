@@ -46,3 +46,6 @@
 [submodule "zhangDev"]
 	path = zhangDev
 	url = https://github.com/dzhang10/hw_06_switcheroo.git
+[submodule "chenJac"]
+	path = chenJac
+	url = https://github.com/jchen2003/06_switcheroo.git
