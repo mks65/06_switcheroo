@@ -67,3 +67,6 @@
 [submodule "liSun"]
 	path = liSun
 	url = https://github.com/sunnyli13/Work06.git
+[submodule "siniscalcoFra"]
+	path = siniscalcoFra
+	url = https://github.com/NopeSiniscalco/06_switcheroo_mks.git
