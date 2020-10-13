@@ -73,3 +73,6 @@
 [submodule "hirotaEis"]
 	path = hirotaEis
 	url = https://github.com/ei5uke/06_switcheroo.git
+[submodule "waldAle"]
+	path = waldAle
+	url = https://github.com/SashaWald/06_work.git
