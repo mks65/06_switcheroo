@@ -64,3 +64,6 @@
 [submodule "shenkerEth"]
 	path = shenkerEth
 	url = https://github.com/ethan-shenker/06_switcheroo_systems.git
+[submodule "liSun"]
+	path = liSun
+	url = https://github.com/sunnyli13/Work06.git
