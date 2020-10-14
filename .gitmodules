@@ -103,3 +103,6 @@
 [submodule "hernandezCar"]
 	path = hernandezCar
 	url = https://github.com/KarlWithK/06_switcheroo_mks.git
+[submodule "chanSer"]
+	path = chanSer
+	url = https://github.com/schan11/chanSer.git
