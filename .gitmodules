@@ -94,3 +94,6 @@
 [submodule "haoGan"]
 	path = haoGan
 	url = https://github.com/haotianGan/06_switcheroo
+[submodule "liuAli"]
+	path = liuAli
+	url = https://github.com/aliu889/06_switcheroo_.git
