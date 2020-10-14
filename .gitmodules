@@ -85,3 +85,6 @@
 [submodule "prasadAmi"]
 	path = prasadAmi
 	url = https://github.com/AmitPr/mks65c-06_switcheroo.git
+[submodule "hathawayMay"]
+	path = hathawayMay
+	url = https://github.com/mayhathaway/systems-06.git
