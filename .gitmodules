@@ -88,3 +88,6 @@
 [submodule "hathawayMay"]
 	path = hathawayMay
 	url = https://github.com/mayhathaway/systems-06.git
+[submodule "misquittaKri"]
+	path = misquittaKri
+	url = https://github.com/Kristoff1318/Work_06.git
