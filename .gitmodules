@@ -76,3 +76,36 @@
 [submodule "waldAle"]
 	path = waldAle
 	url = https://github.com/SashaWald/06_work.git
+[submodule "leeSte"]
+	path = leeSte
+	url = https://github.com/kevidgel/06_switcheroo_kevidgel
+[submodule "prasadAmi"]
+	path = prasadAmi
+	url = https://github.com/AmitPr/mks65c-06_switcheroo.git
+[submodule "hathawayMay"]
+	path = hathawayMay
+	url = https://github.com/mayhathaway/systems-06.git
+[submodule "misquittaKri"]
+	path = misquittaKri
+	url = https://github.com/Kristoff1318/Work_06.git
+[submodule "haoGan"]
+	path = haoGan
+	url = https://github.com/haotianGan/06_switcheroo
+[submodule "liuAli"]
+	path = liuAli
+	url = https://github.com/aliu889/06_switcheroo_.git
+[submodule "sahaAbh"]
+	path = sahaAbh
+	url = https://github.com/AbhijeetSaha2142/06_switcheroo.git
+[submodule "hernandezCar"]
+	path = hernandezCar
+	url = https://github.com/KarlWithK/06_switcheroo_mks.git
+[submodule "chanSer"]
+	path = chanSer
+	url = https://github.com/schan11/chanSer.git
+[submodule "maoMad"]
+	path = maoMad
+	url = https://github.com/madelynxmao/06_switcheroo.git
+[submodule "zhengYul"]
+	path = zhengYul
+	url = https://github.com/yzheng10/06_Switcharoo.git
