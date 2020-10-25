@@ -31,9 +31,6 @@
 [submodule "huLuc"]
 	path = huLuc
 	url = https://github.com/lhu10/systems_06_switcheroo.git
-[submodule "zhouKel"]
-	path = zhouKel
-	url = https://github.com/KellyZhou223/zhouKel
 [submodule "ahmedTah"]
 	path = ahmedTah
 	url = https://github.com/TahsinAhmed13/06_switcheroo.git
