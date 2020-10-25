@@ -76,9 +76,6 @@
 [submodule "waldAle"]
 	path = waldAle
 	url = https://github.com/SashaWald/06_work.git
-[submodule "zhengYul"]
-	path = zhengYul
-	url = https://github.com/yzheng10/06_Switcharoo.git
 [submodule "leeSte"]
 	path = leeSte
 	url = https://github.com/kevidgel/06_switcheroo_kevidgel
@@ -109,3 +106,6 @@
 [submodule "maoMad"]
 	path = maoMad
 	url = https://github.com/madelynxmao/06_switcheroo.git
+[submodule "zhengYul"]
+	path = zhengYul
+	url = https://github.com/yzheng10/06_Switcharoo.git
