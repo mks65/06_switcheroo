@@ -103,9 +103,6 @@
 [submodule "zhengYul"]
 	path = zhengYul
 	url = https://github.com/yzheng10/06_Switcharoo.git
-[submodule "zhouKel"]
-	path = zhouKel
-	url = https://github.com/KellyZhou223/06switcheroo.git
 [submodule "huLuc"]
 	path = huLuc
 	url = https://github.com/lhu10/systems_06_switcheroo.git
